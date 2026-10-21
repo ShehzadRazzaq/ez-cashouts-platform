@@ -2,6 +2,9 @@
 
 A buying group platform I built where members commit to brand-new electronics, gaming and collectible deals, ship the sealed units in, and are paid the retail price plus a commission — keeping their credit card rewards along the way. Live at [ezcashouts.com](https://ezcashouts.com).
 
+<p align="center"><img src="media/demo.gif" alt="Browsing EZ Cashouts" width="800"></p>
+<p align="center"><a href="media/demo.mp4">Watch the full-quality video</a></p>
+
 ## What it does
 
 **For members**
